@@ -140,9 +140,3 @@ python simulations.py
 - **Split limit.** Resplitting is limited by depth rather than by an exact count of hands, which is nearly equivalent in practice.
 - **Chosen cards are not removed from the shoe** when playing from a fixed position, which has a negligible effect with 6 decks.
 
-## Possible extensions
-
-- Card counting (Hi-Lo) with bet sizing based on the true count
-- Configurable rules (S17, no DAS, surrender) to measure what each rule is worth
-- Reinforcement learning (e.g. Q-learning) as an alternative way of deriving the table
-- Composition-dependent strategy, using the exact cards in a hand rather than just the total
