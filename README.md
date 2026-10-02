@@ -8,7 +8,7 @@ The derived strategy was built purely by simulation, with no published strategy 
 
 ## Results
 
-Each strategy was played for 1,000,000 rounds using the same sequence of shuffles.
+Each strategy was played for 5,000,000 rounds using the same sequence of shuffles.
 
 | Strategy | Mean return per hand | 95% confidence interval | Std dev |
 |---|---|---|---|
